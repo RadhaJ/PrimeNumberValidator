@@ -17,7 +17,7 @@ Open the project using Eclipse.
 Build the project and press Run to run it locally.
 
           To host the project on a Web-Server
-Create aN Amazon EC2 account and log into the portal.
+Create an Amazon EC2 account and log into the portal.
 Create an instance using Linux AMI.
 Install Tomcat server on the instance (in putty).
 Export the project from Eclipse as a .war file.
