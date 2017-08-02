@@ -1,4 +1,3 @@
-# Cloud-assignment1
 
 
           Function - Prime Number Validator
